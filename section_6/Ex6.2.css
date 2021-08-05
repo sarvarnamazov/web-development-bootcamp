@@ -1,0 +1,22 @@
+/* 
+    Hipster Logo Exercise
+    style h1
+    1. uppercase letters.
+    2. font family monospace.
+    3. locate the text at the center.
+    4. set font weight to 100.
+    5. text size 40px.
+    6. set spacing between letters to 20px.
+    7. add wavy plum underline (plum is color).
+ */
+
+/*YOUR CODE GOES IN HERE*/
+h1{
+    text-transform: uppercase;
+    font-family: monospace;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: underline wavy plum;
+}
