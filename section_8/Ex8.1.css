@@ -1,0 +1,33 @@
+/* 
+    GIVEN
+    1. The card div
+        1. 210px width
+        2. 1px grey border (solid border style)
+        3. 5px border radius
+        4. text align center
+    
+    2. The image
+        1. 200px wide
+        2. 5px border with color of rgb(236, 183, 191) (solid border style)
+        3. 50% border radius
+*/
+
+/* YOUR CODE GOES IN HERE */
+/* SOLUTION */
+.card{
+    width: 210px;
+    border-width: 1px;
+    border-color: grey;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    border-width: 5px;
+    border-color: rgb(236, 183, 191);
+    border-style: solid;
+    border-radius: 50%;
+    
+}
